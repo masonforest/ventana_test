@@ -1,1 +1,37 @@
-IyMgV2VsY29tZSB0byBHaXRIdWIgUGFnZXMhCgpZb3UgY2FuIHVzZSB0aGUgW2VkaXRvciBvbiBHaXRIdWJdKGh0dHBzOi8vZ2l0aHViLmNvbS9tYXNvbmZvcmVzdC92ZW50YW5hX3Rlc3QvZWRpdC9tYXN0ZXIvaW5kZXgubWQpIHRvIG1haW50YWluIGFuZCBwcmV2aWV3IHRoZSBjb250ZW50IGZvciB5b3VyIHdlYnNpdGUgaW4gTWFya2Rvd24gZmlsZXMuCgpXaGVuZXZlciB5b3UgY29tbWl0IHRvIHRoaXMgcmVwb3NpdG9yeSwgR2l0SHViIFBhZ2VzIHdpbGwgcnVuIFtKZWt5bGxdKGh0dHBzOi8vamVreWxscmIuY29tLykgdG8gcmVidWlsZCB0aGUgcGFnZXMgaW4geW91ciBzaXRlLCBmcm9tIHRoZSBjb250ZW50IGluIHlvdXIgTWFya2Rvd24gZmlsZXMuCgojIyMgTWFya2Rvd24KCk1hcmtkb3duIGlzIGEgbGlnaHR3ZWlnaHQgYW5kIGVhc3ktdG8tdXNlIHN5bnRheCBmb3Igc3R5bGluZyB5b3VyIHdyaXRpbmcuIEl0IGluY2x1ZGVzIGNvbnZlbnRpb25zIGZvcgoKYGBgbWFya2Rvd24KU3ludGF4IGhpZ2hsaWdodGVkIGNvZGUgYmxvY2sKCiMgSGVhZGVyIDEKIyMgSGVhZGVyIDIKIyMjIEhlYWRlciAzCgotIEJ1bGxldGVkCi0gTGlzdAoKMS4gTnVtYmVyZWQKMi4gTGlzdAoKKipCb2xkKiogYW5kIF9JdGFsaWNfIGFuZCBgQ29kZWAgdGV4dAoKW0xpbmtdKHVybCkgYW5kICFbSW1hZ2VdKHNyYykKYGBgCgpGb3IgbW9yZSBkZXRhaWxzIHNlZSBbR2l0SHViIEZsYXZvcmVkIE1hcmtkb3duXShodHRwczovL2d1aWRlcy5naXRodWIuY29tL2ZlYXR1cmVzL21hc3RlcmluZy1tYXJrZG93bi8pLgoKIyMjIEpla3lsbCBUaGVtZXMKCllvdXIgUGFnZXMgc2l0ZSB3aWxsIHVzZSB0aGUgbGF5b3V0IGFuZCBzdHlsZXMgZnJvbSB0aGUgSmVreWxsIHRoZW1lIHlvdSBoYXZlIHNlbGVjdGVkIGluIHlvdXIgW3JlcG9zaXRvcnkgc2V0dGluZ3NdKGh0dHBzOi8vZ2l0aHViLmNvbS9tYXNvbmZvcmVzdC92ZW50YW5hX3Rlc3Qvc2V0dGluZ3MpLiBUaGUgbmFtZSBvZiB0aGlzIHRoZW1lIGlzIHNhdmVkIGluIHRoZSBKZWt5bGwgYF9jb25maWcueW1sYCBjb25maWd1cmF0aW9uIGZpbGUuCgojIyMgU3VwcG9ydCBvciBDb250YWN0CgpIYXZpbmcgdHJvdWJsZSB3aXRoIFBhZ2VzPyBDaGVjayBvdXQgb3VyIFtkb2N1bWVudGF0aW9uXShodHRwczovL2hlbHAuZ2l0aHViLmNvbS9jYXRlZ29yaWVzL2dpdGh1Yi1wYWdlcy1iYXNpY3MvKSBvciBbY29udGFjdCBzdXBwb3J0XShodHRwczovL2dpdGh1Yi5jb20vY29udGFjdCkgYW5kIHdl4oCZbGwgaGVscCB5b3Ugc29ydCBpdCBvdXQu
+## Welcome to GitHub Pages!
+
+You can use the [editor on GitHub](https://github.com/masonforest/ventana_test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/masonforest/ventana_test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
