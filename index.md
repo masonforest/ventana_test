@@ -1,5 +1,5 @@
-## Welcome to Ventana
+## Hello Gordon!
 
-A _window_ into your content!
+_A window into your content!_
 
 _**It worked!!!!**_
