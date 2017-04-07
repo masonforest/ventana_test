@@ -1,8 +1,8 @@
-## Hello Dawn! :)
+## Hello Dawn!
 
 _Test_
 
-Ã¢ÂÂ
+ÃÂ¢ÃÂÃÂ
 
 **Test**
 
